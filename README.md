@@ -1,1 +1,3 @@
-# FirstRepository
+Демьянчук Андрей
+122 группа (10б)
+https://clck.ru/32A36C
