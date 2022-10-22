@@ -1,9 +1,6 @@
 Демьянчук Андрей
 122 группа (10б)
 
-https://clck.ru/32A36C - ссылка на open processing
-
-
 ### ПРОГРАММЫ НА ПАЙТОНЕ 
 
 папка "черепаха" - задания с черепахой на пайтоне
@@ -35,3 +32,6 @@ https://clck.ru/32A36C - ссылка на open processing
 "sql" - команды sql
 
 "wordpress" - ссылка на свой сайт
+
+https://clck.ru/32A36C - ссылка на open processing
+
