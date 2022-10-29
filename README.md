@@ -48,3 +48,5 @@ SELECT = FROM users WHERE fam > "Демьянчук"  ищем себя
 
 ### Закон поглащения (13)
 $$ A \vee (A \wedge B)=A $$
+![image](https://user-images.githubusercontent.com/114381796/198812925-62d65ae0-01a6-4259-88d4-b6d25ce3bed2.png)
+
