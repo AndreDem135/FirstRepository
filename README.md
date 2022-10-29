@@ -35,6 +35,12 @@
 
 https://clck.ru/32A36C - ссылка на open processing
 
+### Команды для бд
+SHOW TABLES показывает название колличество таблиц
+SELECT = FROM users  выводим пользователей дб
+SELECT = FROM grades выводим оценки 
+SELECT = FROM users, grades WHERE users-users_id - grades-users_id   у кого какие оценки
+SELECT = FROM users WHERE fam > "Демьянчук"  ищем себя 
 
 ### Закон поглащения (13)
 $$ A \vee (A \wedge B)=A $$
