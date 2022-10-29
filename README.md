@@ -35,3 +35,6 @@
 
 https://clck.ru/32A36C - ссылка на open processing
 
+
+### Закон поглащения (13)
+$$ A \vee (A \wedge B)=A $$
