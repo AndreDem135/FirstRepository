@@ -49,4 +49,11 @@ SELECT = FROM users WHERE fam > "Демьянчук"  ищем себя
 ### Закон поглащения (13)
 $$ A \vee (A \wedge B)=A $$
 
+```mermaid
+flowchart LR
 
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
