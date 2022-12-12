@@ -49,6 +49,8 @@ SELECT = FROM users WHERE fam > "Демьянчук"  ищем себя
 ### Закон поглащения (13)
 $$ A \vee (A \wedge B)=A $$
 
+\bar{E}_{0}^{2}=\sqrt[2]{\frac{Fa_{0}^{2}}{(x-1)\cdot x}} +a_{1}^{2}+\beta_{1}^{2}
+
 ```mermaid
 flowchart LR
 
