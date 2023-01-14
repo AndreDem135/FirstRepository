@@ -22,6 +22,6 @@
 | 20 |   |  да  |    |
 | 21 |   |   да |    |
 
-19.![image](https://user-images.githubusercontent.com/114381796/208225004-b801f279-4b77-4f82-9959-097b045baef2.png)
+
     
     
